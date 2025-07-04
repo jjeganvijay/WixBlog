@@ -6,7 +6,7 @@ body {
     color: #000;
 }
 
-/* Navbar using Flex */
+
 .navbar {
     display: flex;
     justify-content: space-between;
@@ -52,7 +52,7 @@ body {
     border: none;
 }
 
-/* Main Content using Grid */
+
 .main-content {
     display: grid;
     place-items: center;
